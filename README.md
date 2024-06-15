@@ -1,2 +1,5 @@
-# gitub1
-this is y first repository in github.
+# Github1
+This is my first repository in github.
+<br>
+Author- Amna khan
+
